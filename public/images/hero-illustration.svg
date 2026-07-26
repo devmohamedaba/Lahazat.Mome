@@ -1,0 +1,74 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#EAE2F8"/>
+      <stop offset="100%" stop-color="#EAE2F8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="clockFace" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FEE690"/>
+      <stop offset="100%" stop-color="#FEDB61"/>
+    </linearGradient>
+    <linearGradient id="robeGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6B31CE"/>
+      <stop offset="100%" stop-color="#441F84"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Soft background glow -->
+  <circle cx="200" cy="200" r="190" fill="url(#bgGlow)"/>
+
+  <!-- Sparkle accents -->
+  <polygon points="62.0,78.0 65.4,86.6 74.0,90.0 65.4,93.4 62.0,102.0 58.6,93.4 50.0,90.0 58.6,86.6" fill="#FEDB61" opacity="1"/>
+      <polygon points="340.0,111.0 342.5,117.5 349.0,120.0 342.5,122.5 340.0,129.0 337.5,122.5 331.0,120.0 337.5,117.5" fill="#FEDB61" opacity="0.9"/>
+      <polygon points="70.0,312.0 72.3,317.7 78.0,320.0 72.3,322.3 70.0,328.0 67.7,322.3 62.0,320.0 67.7,317.7" fill="#5527A4" opacity="0.35"/>
+      <polygon points="345.0,289.0 348.1,296.9 356.0,300.0 348.1,303.1 345.0,311.0 341.9,303.1 334.0,300.0 341.9,296.9" fill="#FEDB61" opacity="0.8"/>
+      <polygon points="200.0,33.0 202.0,38.0 207.0,40.0 202.0,42.0 200.0,47.0 198.0,42.0 193.0,40.0 198.0,38.0" fill="#5527A4" opacity="0.3"/>
+
+  <!-- Clock ring -->
+  <circle cx="200" cy="200" r="178" fill="none" stroke="#5527A4" stroke-width="3" opacity="0.25"/>
+  <circle cx="200" cy="200" r="160" fill="url(#clockFace)"/>
+  <circle cx="200" cy="200" r="160" fill="none" stroke="#5527A4" stroke-width="6"/>
+
+  <!-- Clock ticks -->
+  <line x1="200.0" y1="44.0" x2="200.0" y2="28.0" stroke="#5527A4" stroke-width="5" stroke-linecap="round" opacity="0.55"/>
+      <line x1="280.0" y1="61.4" x2="286.0" y2="51.0" stroke="#5527A4" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+      <line x1="338.6" y1="120.0" x2="349.0" y2="114.0" stroke="#5527A4" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+      <line x1="356.0" y1="200.0" x2="372.0" y2="200.0" stroke="#5527A4" stroke-width="5" stroke-linecap="round" opacity="0.55"/>
+      <line x1="338.6" y1="280.0" x2="349.0" y2="286.0" stroke="#5527A4" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+      <line x1="280.0" y1="338.6" x2="286.0" y2="349.0" stroke="#5527A4" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+      <line x1="200.0" y1="356.0" x2="200.0" y2="372.0" stroke="#5527A4" stroke-width="5" stroke-linecap="round" opacity="0.55"/>
+      <line x1="120.0" y1="338.6" x2="114.0" y2="349.0" stroke="#5527A4" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+      <line x1="61.4" y1="280.0" x2="51.0" y2="286.0" stroke="#5527A4" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+      <line x1="44.0" y1="200.0" x2="28.0" y2="200.0" stroke="#5527A4" stroke-width="5" stroke-linecap="round" opacity="0.55"/>
+      <line x1="61.4" y1="120.0" x2="51.0" y2="114.0" stroke="#5527A4" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+      <line x1="120.0" y1="61.4" x2="114.0" y2="51.0" stroke="#5527A4" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+
+  <!-- Meditating figure -->
+  <g>
+    <!-- halo behind head -->
+    <circle cx="200" cy="150" r="34" fill="#FEDB61" opacity="0.55"/>
+
+    <!-- crossed legs base -->
+    <ellipse cx="200" cy="255" rx="78" ry="24" fill="url(#robeGradient)"/>
+
+    <!-- robe / body -->
+    <path d="M200,168 C176,168 158,192 149,222 C142,246 158,262 200,262 C242,262 258,246 251,222 C242,192 224,168 200,168 Z" fill="url(#robeGradient)"/>
+
+    <!-- resting hands -->
+    <circle cx="168" cy="238" r="9" fill="#5227A4"/>
+    <circle cx="232" cy="238" r="9" fill="#5227A4"/>
+
+    <!-- head -->
+    <circle cx="200" cy="150" r="26" fill="#F5EFFB"/>
+
+    <!-- simple serene face detail -->
+    <path d="M190,152 Q200,158 210,152" stroke="#5527A4" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- small clock hands accent, bottom-left of dial, echoing brand mark -->
+  <g opacity="0.9">
+    <line x1="122" y1="248" x2="122" y2="222" stroke="#331863" stroke-width="4" stroke-linecap="round"/>
+    <line x1="122" y1="248" x2="140" y2="236" stroke="#331863" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="122" cy="248" r="4" fill="#331863"/>
+  </g>
+</svg>

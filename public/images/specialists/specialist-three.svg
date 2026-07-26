@@ -1,0 +1,35 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8A5AD8"/>
+      <stop offset="100%" stop-color="#5527A4"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="118" fill="url(#bg)"/>
+  <circle cx="120" cy="120" r="118" fill="none" stroke="white" stroke-width="4" opacity="0.25"/>
+
+  
+  <!-- shoulders / blouse -->
+  <path d="M120,150 C90,150 68,178 62,214 C58,236 78,246 120,246 C162,246 182,236 178,214 C172,178 150,150 120,150 Z" fill="#5527A4"/>
+  <!-- collar -->
+  <path d="M104,158 L120,178 L136,158" fill="none" stroke="#FBFAFE" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- neck -->
+  <rect x="110" y="128" width="20" height="26" rx="8" fill="#F0DAC0"/>
+  <!-- hair back (below chin length bob) -->
+  <path d="M78,110 C78,150 94,168 120,168 C146,168 162,150 162,110 C162,92 146,124 120,124 C94,124 78,92 78,110 Z" fill="#2E1A52"/>
+  <!-- head -->
+  <circle cx="120" cy="104" r="34" fill="#F0DAC0"/>
+  <!-- hair top -->
+  <path d="M86,102 C86,74 100,58 120,58 C140,58 154,74 154,102 C154,88 146,72 120,72 C94,72 86,88 86,102 Z" fill="#2E1A52"/>
+  <!-- side hair strands -->
+  <path d="M84,100 C80,118 82,136 90,148" fill="none" stroke="#2E1A52" stroke-width="10" stroke-linecap="round"/>
+  <path d="M156,100 C160,118 158,136 150,148" fill="none" stroke="#2E1A52" stroke-width="10" stroke-linecap="round"/>
+  <!-- face -->
+  <path d="M108,110 Q120,118 132,110" stroke="#2E1A52" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+
+  <g transform="translate(184,184)">
+    <circle r="24" fill="#F3BD02"/>
+    <path d="M0,4 C-6,-3 -14,-1 -14,7 C-14,14 -4,20 0,24 C4,20 14,14 14,7 C14,-1 6,-3 0,4 Z" fill="white" transform="scale(0.5)"/>
+  </g>
+</svg>

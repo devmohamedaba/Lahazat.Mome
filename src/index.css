@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-display: swap;
+  @apply bg-surface text-content transition-colors duration-300;
+}
+
+*:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgb(var(--color-primary-500) / 0.5);
+}
+
+@layer base {
+  :root {
+    /* Primary - مطابق تمامًا لخلفية اللوجو البنفسجية (#5527A4) */
+    --color-primary-50: 246 243 252;
+    --color-primary-100: 234 226 248;
+    --color-primary-200: 211 193 240;
+    --color-primary-300: 178 148 230;
+    --color-primary-400: 136 90 216;
+    --color-primary-500: 107 49 206;
+    --color-primary-600: 85 39 164;
+    --color-primary-700: 68 31 132;
+    --color-primary-800: 51 24 99;
+    --color-primary-900: 36 17 70;
+
+    /* Secondary - الذهبي/المصفر من وش الساعة (#FEDB61) بدل الأزرق */
+    --color-secondary-50: 255 252 240;
+    --color-secondary-100: 255 246 214;
+    --color-secondary-300: 254 230 144;
+    --color-secondary-400: 254 219 98;
+    --color-secondary-500: 254 209 52;
+    --color-secondary-600: 243 189 2;
+
+    /* Accent - نفس عائلة الذهبي بدرجة أغمق قليلًا لتمييز طفيف */
+    --color-accent-50: 255 252 240;
+    --color-accent-100: 255 246 214;
+    --color-accent-300: 254 230 144;
+    --color-accent-400: 243 189 2;
+    --color-accent-500: 194 151 2;
+
+    /* Semantic */
+    --color-success: 34 168 90;
+    --color-warning: 217 158 8;
+    --color-error: 220 63 63;
+
+    /* أسطح ونصوص عامة - أبيض دافئ بلمسة بنفسجية خفيفة */
+    --color-surface: 251 250 254;
+    --color-surface-alt: 246 244 251;
+    --color-text-primary: 26 17 33;
+    --color-text-secondary: 82 70 94;
+    --color-border: 231 224 242;
+
+    /* ثابتة - نفس بنفسجي اللوجو الغامق، لا تتغير بين الوضعين */
+    --color-surface-inverse: 36 17 70;
+    --color-content-inverse: 234 226 248;
+    --color-content-inverse-muted: 178 148 230;
+  }
+
+  .dark {
+    --color-primary-300: 178 148 230;
+    --color-primary-400: 136 90 216;
+    --color-primary-500: 136 90 216;
+    --color-primary-600: 107 49 206;
+    --color-primary-900: 234 226 248;
+
+    --color-secondary-400: 254 230 144;
+    --color-secondary-500: 254 219 98;
+
+    --color-surface: 24 16 34;
+    --color-surface-alt: 18 12 26;
+    --color-text-primary: 240 235 248;
+    --color-text-secondary: 196 186 212;
+    --color-border: 58 44 82;
+
+    --color-surface-inverse: 36 17 70;
+    --color-content-inverse: 234 226 248;
+    --color-content-inverse-muted: 178 148 230;
+  }
+}

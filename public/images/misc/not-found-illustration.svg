@@ -1,0 +1,32 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#EAE2F8"/>
+      <stop offset="100%" stop-color="#EAE2F8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="200" cy="200" r="190" fill="url(#glow)"/>
+
+  <circle cx="200" cy="200" r="150" fill="#FEDB61" opacity="0.15"/>
+  <circle cx="200" cy="200" r="130" fill="none" stroke="#5527A4" stroke-width="8"/>
+  <circle cx="200" cy="200" r="130" fill="#FEDB61"/>
+
+  <!-- compass needle -->
+  <path d="M200,110 L215,200 L200,290 L185,200 Z" fill="#5527A4"/>
+  <path d="M200,110 L215,200 L200,200 Z" fill="#331863"/>
+  <path d="M200,290 L185,200 L200,200 Z" fill="#331863"/>
+  <circle cx="200" cy="200" r="14" fill="#331863"/>
+
+  <!-- direction ticks -->
+  <circle cx="200" cy="80" r="6" fill="#5527A4"/>
+  <circle cx="200" cy="320" r="6" fill="#5527A4"/>
+  <circle cx="80" cy="200" r="6" fill="#5527A4"/>
+  <circle cx="320" cy="200" r="6" fill="#5527A4"/>
+
+  <polygon points="90.0,100.0 92.8,107.2 100.0,110.0 92.8,112.8 90.0,120.0 87.2,112.8 80.0,110.0 87.2,107.2" fill="#F3BD02" opacity="1"/>
+  <polygon points="320.0,102.0 322.3,107.7 328.0,110.0 322.3,112.3 320.0,118.0 317.7,112.3 312.0,110.0 317.7,107.7" fill="#F3BD02" opacity="0.8"/>
+  <polygon points="90.0,293.0 92.0,298.0 97.0,300.0 92.0,302.0 90.0,307.0 88.0,302.0 83.0,300.0 88.0,298.0" fill="#8A5AD8" opacity="0.5"/>
+  <polygon points="320.0,292.0 322.3,297.7 328.0,300.0 322.3,302.3 320.0,308.0 317.7,302.3 312.0,300.0 317.7,297.7" fill="#8A5AD8" opacity="0.5"/>
+
+</svg>

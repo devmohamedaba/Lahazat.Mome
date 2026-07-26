@@ -1,0 +1,69 @@
+{
+  "seo": {
+    "title": "About Us | Lahazat Moments",
+    "description": "Learn about Lahazat Moments platform, our vision, mission, and values in providing specialized mental health support."
+  },
+
+  "hero": {
+    "title": "About Us",
+    "description": "A professional platform providing psychological support and counseling with a human-centered approach."
+  },
+
+  "story": {
+    "title": "Our Story",
+    "description": "Lahazat was created to provide a safe space where people can express themselves and receive the support they need."
+  },
+
+  "mission": {
+    "title": "Our Mission",
+    "description": "Providing high-quality mental health care that helps individuals and families build healthier lives."
+  },
+
+  "vision": {
+    "title": "Our Vision",
+    "description": "To become the leading destination for professional mental health support."
+  },
+
+  "values": {
+    "title": "Our Values",
+    "subtitle": "The principles we hold to in every step of your journey with us",
+    "items": {
+      "compassion": {
+        "title": "Empathy and Respect",
+        "description": "We listen with genuine care and treat every person with full respect and understanding."
+      },
+      "privacy": {
+        "title": "Privacy and Confidentiality",
+        "description": "We protect every client's privacy and guarantee full confidentiality of sessions and data."
+      },
+      "professionalism": {
+        "title": "Professionalism",
+        "description": "Our team is trained and qualified to the highest professional standards in mental health care."
+      }
+    }
+  },
+
+  "team": {
+    "title": "Our Team",
+    "description": "A team of experienced mental health professionals dedicated to helping others."
+  },
+
+  "whyChoose": {
+    "title": "Why Choose Us",
+    "description": "We offer a complete mental health support experience built on expertise and genuine care for you.",
+    "items": {
+      "experience": {
+        "title": "Trusted Experience",
+        "description": "A team of certified specialists with years of hands-on practice."
+      },
+      "confidentiality": {
+        "title": "Full Confidentiality",
+        "description": "Your privacy is a top priority in every session and every piece of data."
+      },
+      "continuousSupport": {
+        "title": "Ongoing Support",
+        "description": "Continuous follow-up and support throughout your mental health journey."
+      }
+    }
+  }
+}

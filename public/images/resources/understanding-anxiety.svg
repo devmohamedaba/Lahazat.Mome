@@ -1,0 +1,13 @@
+<svg width="480" height="320" viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="320" fill="#F6F3FC"/>
+  
+  <circle cx="240" cy="160" r="120" fill="#5527A4" opacity="0.08"/>
+  <path d="M240,90 C280,90 305,120 305,160 C305,190 288,210 265,222 L270,250 L210,250 L215,222 C192,210 175,190 175,160 C175,120 200,90 240,90 Z" fill="#5527A4"/>
+  <path d="M120,120 C140,110 160,130 180,120" stroke="#FEDB61" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.9"/>
+  <path d="M110,150 C135,138 158,158 185,148" stroke="#FEDB61" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M300,120 C320,110 340,130 360,120" stroke="#FEDB61" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.9"/>
+  <path d="M295,150 C320,138 343,158 370,148" stroke="#FEDB61" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <polygon points="90.0,210.0 92.8,217.2 100.0,220.0 92.8,222.8 90.0,230.0 87.2,222.8 80.0,220.0 87.2,217.2" fill="#F3BD02" opacity="1"/>
+  <polygon points="390.0,202.0 392.3,207.7 398.0,210.0 392.3,212.3 390.0,218.0 387.7,212.3 382.0,210.0 387.7,207.7" fill="#F3BD02" opacity="0.8"/>
+
+</svg>

@@ -1,0 +1,309 @@
+{
+  "seo": {
+    "title": "Articles & Resources | Lahazat Moments",
+    "description": "A trusted library of mental health articles to help you understand yourself and improve your wellbeing."
+  },
+
+  "hero": {
+    "title": "Mental Health Articles & Resources",
+    "description": "A collection of trusted articles written by professionals to help you better understand yourself."
+  },
+
+  "readMore": "Read More",
+
+  "categories": {
+    "title": "Browse by Category",
+    "subtitle": "Choose a topic to explore more focused articles",
+    "items": {
+      "anxiety": "Anxiety",
+      "depression": "Depression",
+      "relationships": "Relationships",
+      "children": "Children & Teens",
+      "selfCare": "Self Care",
+      "mindfulness": "Mindfulness"
+    }
+  },
+
+  "whyResources": {
+    "title": "Why Our Resources Are Trusted",
+    "subtitle": "We're committed to accurate, helpful content grounded in professional practice",
+    "items": {
+      "trusted": {
+        "title": "Trusted Content",
+        "description": "Every article is reviewed by licensed mental health professionals."
+      },
+      "updated": {
+        "title": "Regularly Updated",
+        "description": "We add new articles regularly to reflect the latest research and practices."
+      },
+      "practical": {
+        "title": "Practical Advice",
+        "description": "Content you can actually apply in daily life, not just theory."
+      }
+    }
+  },
+
+  "statistics": {
+    "articles": "Articles",
+    "guides": "Guides",
+    "readers": "Readers Helped",
+    "updated": "Content Updates"
+  },
+
+  "cta": {
+    "title": "Need More Than an Article?",
+    "description": "Book a session with one of our specialists for direct, personalized support.",
+    "bookButton": "Book a Session",
+    "contactButton": "Contact Us"
+  },
+
+  "related": {
+    "title": "Related Articles",
+    "description": "Explore more resources that may help you improve your mental wellness."
+  },
+
+  "article": {
+    "back": "Back to Resources",
+    "notFound": "Article not found"
+  },
+
+  "articles": {
+    "one": {
+      "title": "Understanding Anxiety",
+      "excerpt": "Learn the causes, symptoms, and effective ways to manage anxiety.",
+      "author": "Dr. Sarah Ahmed",
+      "date": "July 10, 2026",
+      "readTime": "6 min read",
+      "category": "Anxiety",
+      "content": [
+        {
+          "type": "paragraph",
+          "value": "Anxiety is a natural response to daily stress, but when it becomes persistent it can affect quality of life and the ability to carry out daily activities."
+        },
+        {"type": "heading", "value": "Common Symptoms of Anxiety"},
+        {
+          "type": "list",
+          "items": [
+            "Constant overthinking",
+            "Difficulty sleeping",
+            "Feeling tense and unsettled",
+            "Difficulty concentrating"
+          ]
+        },
+        {"type": "heading", "value": "Managing Anxiety"},
+        {
+          "type": "paragraph",
+          "value": "Healthy habits, breathing techniques, lifestyle adjustments, and professional support can all help reduce anxiety symptoms."
+        }
+      ]
+    },
+
+    "two": {
+      "title": "Effective Stress Management",
+      "excerpt": "Practical methods to reduce stress and improve emotional balance.",
+      "author": "Dr. Mohamed Hassan",
+      "date": "July 8, 2026",
+      "readTime": "8 min read",
+      "category": "Stress Management",
+      "content": [
+        {
+          "type": "paragraph",
+          "value": "Stress is a natural part of life, but ongoing pressure can take a toll on both physical and mental health."
+        },
+        {"type": "heading", "value": "Common Causes of Stress"},
+        {
+          "type": "list",
+          "items": [
+            "Work pressure",
+            "Daily responsibilities",
+            "Major life changes",
+            "Financial or family issues"
+          ]
+        },
+        {"type": "heading", "value": "Strategies for Managing Stress"},
+        {
+          "type": "paragraph",
+          "value": "Time management, regular exercise, quality sleep, and staying connected with others all help improve your ability to cope with stress."
+        }
+      ]
+    },
+
+    "three": {
+      "title": "Building Healthy Relationships",
+      "excerpt": "Learn how communication and trust create stronger relationships.",
+      "author": "Dr. Nour Eldin",
+      "date": "July 5, 2026",
+      "readTime": "7 min read",
+      "category": "Relationships",
+      "content": [
+        {
+          "type": "paragraph",
+          "value": "Positive relationships play a key role in improving mental health and fostering a sense of support and belonging."
+        },
+        {"type": "heading", "value": "Traits of Healthy Relationships"},
+        {
+          "type": "list",
+          "items": [
+            "Mutual respect",
+            "Open communication",
+            "Trust",
+            "Empathy",
+            "Healthy boundaries"
+          ]
+        },
+        {"type": "heading", "value": "Improving Your Relationships"},
+        {
+          "type": "paragraph",
+          "value": "Active listening and expressing feelings clearly help build stronger, more stable relationships."
+        }
+      ]
+    },
+
+    "four": {
+      "title": "When You Set Boundaries, Why Do They Suddenly Call You 'Difficult'?",
+      "excerpt": "Setting psychological boundaries isn't aggression or arrogance, it's a sign of a healthy sense of self. Here's why people around you react the way they do once you stop trying to please everyone.",
+      "author": "Dr. Nader Attallah",
+      "date": "July 18, 2026",
+      "readTime": "5 min read",
+      "category": "Psychological Boundaries",
+      "content": [
+        {
+          "type": "paragraph",
+          "value": "Have you ever noticed that the moment you stop letting people take advantage of you, and start setting boundaries in draining relationships, some of them suddenly start calling you 'difficult' or say your temper has 'gotten harsh'? That reaction is usually not really about you, it's about their discomfort with a dynamic they had grown used to suddenly changing."
+        },
+        {"type": "heading", "value": "Why does setting boundaries upset people?"},
+        {
+          "type": "paragraph",
+          "value": "In psychology, this reaction has a name: Threatened Control. Someone who was used to you always being available, quiet, and accommodating genuinely feels anxious when you suddenly establish clear boundaries, because they've lost a form of control they had come to rely on."
+        },
+        {
+          "type": "paragraph",
+          "value": "People who benefited from your kindness may, once you set boundaries, try to 'punish' you socially, whether through negative talk, damaging your reputation, or even false accusations. All of these attempts share one goal: pulling you back into the old role they were comfortable with."
+        },
+        {"type": "heading", "value": "Their resentment reflects them, not you"},
+        {
+          "type": "paragraph",
+          "value": "In psychology, much of this hostile reaction is understood as a form of projection, where a person projects their own internal frustration onto you, as a reaction to losing a privilege they had come to see as a right, even though it was never truly a right to begin with, just something your kindness allowed."
+        },
+        {"type": "heading", "value": "Setting boundaries is a skill, not aggression"},
+        {
+          "type": "paragraph",
+          "value": "It's important to distinguish between setting boundaries and being aggressive. Setting boundaries is a core psychological skill that protects your energy, but just as important is learning to let go of the guilt that often follows the first time you actually enforce one."
+        },
+        {
+          "type": "paragraph",
+          "value": "Respecting yourself enough to set healthy boundaries isn't arrogance, it's a sign of a healthy sense of self. True inner peace never begins with pleasing everyone around you. It begins the moment you stop hurting yourself just to keep others comfortable."
+        }
+      ]
+    },
+
+    "five": {
+      "title": "Sleep and Mental Health: A Deeper Connection Than You Think",
+      "excerpt": "Poor sleep isn't just physical fatigue, it's a direct factor in increased anxiety and mood swings. Discover the real relationship between your sleep and your mental health.",
+      "author": "Dr. Sarah Ahmed",
+      "date": "July 20, 2026",
+      "readTime": "6 min read",
+      "category": "Sleep & Mental Health",
+      "content": [
+        {
+          "type": "paragraph",
+          "value": "Many of us treat poor sleep as a minor inconvenience or temporary tiredness, but sleep is actually one of the most important factors shaping our day-to-day mental health. During sleep, the brain processes emotions and memories, and resets the chemical balance responsible for mood."
+        },
+        {"type": "heading", "value": "How poor sleep affects your mental state"},
+        {
+          "type": "paragraph",
+          "value": "When we repeatedly sleep less than our body needs, our tolerance for daily stress drops, and emotional reactions become more intense. This explains why, after a bad night's sleep, small things can bother us more than usual, or we feel anxious without a clear reason."
+        },
+        {"type": "heading", "value": "Signs your sleep is affecting your mental health"},
+        {
+          "type": "list",
+          "items": [
+            "Difficulty concentrating even on simple tasks",
+            "Rapid mood swings without an obvious cause",
+            "Constant fatigue even after enough hours of sleep",
+            "A noticeable increase in anxiety or tension"
+          ]
+        },
+        {"type": "heading", "value": "Practical steps to improve your sleep quality"},
+        {
+          "type": "paragraph",
+          "value": "Sticking to a consistent sleep and wake schedule, even on weekends, helps your body build a stable internal rhythm. Avoiding screens for about an hour before bed and reducing evening caffeine intake are simple steps that make a real, noticeable difference over time."
+        },
+        {
+          "type": "paragraph",
+          "value": "If sleep problems persist despite healthy habits, it's worth consulting a specialist, since sleep disorders are sometimes a symptom of another underlying condition that needs proper evaluation and follow-up."
+        }
+      ]
+    },
+
+    "six": {
+      "title": "Mindfulness: A Simple Daily Tool to Calm the Mind",
+      "excerpt": "Mindfulness isn't a passing trend, it's a scientifically supported practice for reducing stress and increasing present-moment awareness.",
+      "author": "Dr. Mohamed Hassan",
+      "date": "July 21, 2026",
+      "readTime": "6 min read",
+      "category": "Mindfulness",
+      "content": [
+        {
+          "type": "paragraph",
+          "value": "Mindfulness is simply the ability to be mentally present in the moment you're in, without getting caught up in constant thoughts about the past or worries about the future. The idea is simple, but practicing it takes training and consistency."
+        },
+        {"type": "heading", "value": "Why mindfulness matters for mental health"},
+        {
+          "type": "paragraph",
+          "value": "Much of our anxiety and stress comes from our minds constantly dwelling on future events that haven't happened yet, or replaying past situations. Practicing mindfulness helps quiet this excess mental activity, making it easier to notice your thoughts and feelings without being swept away by them."
+        },
+        {"type": "heading", "value": "Simple ways to practice mindfulness daily"},
+        {
+          "type": "list",
+          "items": [
+            "Spend 5 minutes a day focusing only on your breathing",
+            "Notice small sensory details during an everyday activity like eating or walking",
+            "When your mind wanders, gently notice it and return your focus without self-judgment",
+            "Try writing down 3 things you noticed today, without evaluating them"
+          ]
+        },
+        {"type": "heading", "value": "The long-term result"},
+        {
+          "type": "paragraph",
+          "value": "Regular practice, even just a few minutes a day, gradually reduces the intensity of anxiety and improves your ability to handle stressful situations more calmly. The benefit doesn't show up immediately, but it builds over time with consistency, just like any other skill."
+        }
+      ]
+    },
+
+    "seven": {
+      "title": "Digital Balance: How to Protect Your Mental Health from Screen Overload",
+      "excerpt": "Excessive social media use is linked to increased feelings of comparison and anxiety. Here's how to build a healthier relationship with your screen.",
+      "author": "Lahazat Moments Team",
+      "date": "July 22, 2026",
+      "readTime": "5 min read",
+      "category": "Digital Wellbeing",
+      "content": [
+        {
+          "type": "paragraph",
+          "value": "Screens have become an essential part of our daily lives, but excessive use of social media in particular has been linked in numerous studies to increased anxiety, social comparison, and dissatisfaction with one's personal life."
+        },
+        {"type": "heading", "value": "Why does social media affect our mood?"},
+        {
+          "type": "paragraph",
+          "value": "We naturally tend to compare our everyday lives to the best moments others share online, creating an unrealistic gap between what we're actually living and what we see. Over time, this gap can affect self-esteem and increase feelings of anxiety or inadequacy."
+        },
+        {"type": "heading", "value": "Signs it's time to rethink your relationship with your screen"},
+        {
+          "type": "list",
+          "items": [
+            "The first thing you do each morning is open social media",
+            "You feel anxious or uneasy after long browsing sessions",
+            "You frequently compare yourself to others",
+            "You miss out on real time with people around you because of your phone"
+          ]
+        },
+        {"type": "heading", "value": "Practical steps toward a healthier digital balance"},
+        {
+          "type": "paragraph",
+          "value": "Setting specific times of day for browsing instead of checking randomly and constantly, and unfollowing accounts that trigger negative comparison, are simple, practical first steps. Dedicating a screen-free time each day, even just thirty minutes, also helps your mind rest and naturally reset its focus."
+        }
+      ]
+    }
+  }
+}

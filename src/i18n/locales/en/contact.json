@@ -1,0 +1,77 @@
+{
+  "seo": {
+    "title": "Contact Us | Lahazat Moments",
+    "description": "Get in touch with Lahazat Moments by phone, email, or our direct contact form."
+  },
+
+  "hero": {
+    "title": "Contact Us",
+    "description": "We are here to answer your questions and help you reach the right support."
+  },
+
+  "info": {
+    "title": "Contact Information",
+    "email": {
+      "title": "Email"
+    },
+    "phone": {
+      "title": "Phone"
+    },
+    "address": {
+      "title": "Address",
+      "value": "Cairo, Egypt"
+    },
+    "hours": {
+      "title": "Working Hours",
+      "value": "Sat - Thu: 10 AM - 8 PM"
+    }
+  },
+
+  "form": {
+    "title": "Send A Message",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "message": "Message",
+    "placeholders": {
+      "fullName": "Enter your full name",
+      "email": "Enter your email",
+      "subject": "Enter your subject",
+      "message": "Write your message here..."
+    },
+    "submit": "Send Message"
+  },
+
+  "social": {
+    "title": "Follow Us"
+  },
+
+  "success": {
+    "message": "Your message has been sent successfully."
+  },
+
+  "whyContact": {
+    "title": "Why Reach Out to Us",
+    "subtitle": "We're committed to fast replies and genuine care for every inquiry",
+    "items": {
+      "response": {
+        "title": "Fast Response",
+        "description": "Our team replies to every inquiry within 24 hours."
+      },
+      "confidentiality": {
+        "title": "Full Confidentiality",
+        "description": "Your data and messages are handled with complete privacy."
+      },
+      "support": {
+        "title": "Ongoing Support",
+        "description": "We're available to help you at every step of your journey."
+      }
+    }
+  },
+
+  "cta": {
+    "title": "Ready to Start Your Journey?",
+    "description": "Book your first session now and take a step toward better mental health.",
+    "button": "Book a Session"
+  }
+}

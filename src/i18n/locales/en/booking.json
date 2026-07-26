@@ -1,0 +1,71 @@
+{
+  "seo": {
+    "title": "Book a Session | Lahazat Moments",
+    "description": "Book a session with one of our specialists and choose the date and service that suits you."
+  },
+
+  "hero": {
+    "title": "Book Your Session",
+    "description": "Start your journey and receive professional psychological support from our specialists."
+  },
+
+  "form": {
+    "title": "Booking Information",
+
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "specialist": "Specialist",
+    "selectSpecialist": "Select specialist",
+    "consultationType": "Consultation Type",
+    "selectType": "Select consultation type",
+    "date": "Date",
+    "time": "Time",
+    "notes": "Additional Notes",
+    "privacyAgreement": "I agree to the privacy policy and platform terms of use.",
+    "submit": "Confirm Booking",
+
+    "placeholders": {
+      "fullName": "Enter your full name",
+      "email": "example@email.com",
+      "phone": "Enter your phone number",
+      "notes": "Write any additional details you'd like to share"
+    }
+  },
+
+  "specialists": {
+    "one": "Individual Counseling",
+    "two": "Family Counseling",
+    "three": "Child Support"
+  },
+
+  "types": {
+    "individual": "Individual Session",
+    "couples": "Couples Session",
+    "family": "Family Session",
+    "children": "Child Session"
+  },
+
+  "success": {
+    "title": "Your Request Has Been Sent",
+    "description": "Our team will contact you soon to confirm your appointment."
+  },
+
+  "steps": {
+    "title": "Booking Steps",
+    "items": [
+      {
+        "title": "Fill The Form",
+        "description": "Provide your information and choose the suitable service."
+      },
+      {
+        "title": "Confirm Appointment",
+        "description": "We will contact you to confirm the details."
+      },
+      {
+        "title": "Start Your Session",
+        "description": "Receive professional support from your specialist."
+      }
+    ]
+  }
+}

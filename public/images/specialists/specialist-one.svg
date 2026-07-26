@@ -1,0 +1,53 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8A5AD8"/>
+      <stop offset="100%" stop-color="#5527A4"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="118" fill="url(#bg)"/>
+  <circle cx="120" cy="120" r="118" fill="none" stroke="white" stroke-width="4" opacity="0.25"/>
+
+  
+  <!-- shoulders / blouse -->
+  <path d="M120,158 C90,158 68,184 62,216 C58,236 78,246 120,246 C162,246 182,236 178,216 C172,184 150,158 120,158 Z" fill="#5527A4"/>
+  <!-- collar -->
+  <path d="M106,164 L120,182 L134,164" fill="none" stroke="#FBFAFE" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- hijab drape over shoulders (behind face oval) -->
+  <path d="M70,150 C58,168 54,196 62,222 C66,234 78,238 88,232 C80,210 82,180 96,158 Z" fill="#3A1E6B"/>
+  <path d="M170,150 C182,168 186,196 178,222 C174,234 162,238 152,232 C160,210 158,180 144,158 Z" fill="#3A1E6B"/>
+
+  <!-- neck -->
+  <rect x="110" y="132" width="20" height="24" rx="8" fill="#A9673A"/>
+
+  <!-- face -->
+  <ellipse cx="120" cy="104" rx="30" ry="32" fill="#A9673A"/>
+
+  <!-- hijab main covering (frames the face, no hair visible) -->
+  <path d="M120,60
+           C90,60 74,84 74,112
+           C74,130 80,146 90,156
+           L96,150
+           C88,136 84,120 86,106
+           C88,84 102,72 120,72
+           C138,72 152,84 154,106
+           C156,120 152,136 144,150
+           L150,156
+           C160,146 166,130 166,112
+           C166,84 150,60 120,60 Z" fill="#3A1E6B"/>
+  <!-- hijab inner shading near face -->
+  <path d="M90,108 C88,90 100,76 120,76 C140,76 152,90 150,108 C146,96 134,86 120,86 C106,86 94,96 90,108 Z" fill="#2A1450" opacity="0.6"/>
+
+  <!-- soft under-chin hijab wrap -->
+  <path d="M96,140 C104,150 112,154 120,154 C128,154 136,150 144,140 L144,150 C136,158 128,161 120,161 C112,161 104,158 96,150 Z" fill="#3A1E6B"/>
+
+  <!-- face features -->
+  <path d="M108,110 Q120,118 132,110" stroke="#3D2412" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+
+  <g transform="translate(184,184)">
+    <circle r="24" fill="#F3BD02"/>
+    <path d="M0,4 C-6,-3 -14,-1 -14,7 C-14,14 -4,20 0,24 C4,20 14,14 14,7 C14,-1 6,-3 0,4 Z" fill="white" transform="scale(0.5)"/>
+  </g>
+</svg>

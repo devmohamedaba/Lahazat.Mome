@@ -1,0 +1,61 @@
+{
+  "brand": {
+    "name": "Lahazat Moments",
+    "tagline": "Your journey to better mental health"
+  },
+
+  "navigation": {
+    "Home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "specialists": "Specialists",
+    "resources": "Resources",
+    "faq": "FAQ",
+    "contact": "Contact Us",
+    "booking": "Book a Session"
+  },
+
+  "buttons": {
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "bookNow": "Book Now",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "back": "Back",
+    "viewAll": "View All",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "services": "Our Services",
+    "viewSpecialists": "View All Specialists"
+  },
+
+  "footer": {
+    "description": "A specialized platform providing mental health support and expert counseling services.",
+    "quickLinks": "Quick Links",
+    "servicesTitle": "Services",
+    "contactUs": "Contact Us",
+    "followUs": "Follow Us",
+    "copyright": "All rights reserved"
+  },
+  
+  "serviceItems": {
+    "individual": "Individual Sessions",
+    "family": "Family Counseling",
+    "couples": "Couples Counseling",
+    "children": "Child Support"
+  },
+
+  "common": {
+    "loading": "Loading...",
+    "search": "Search",
+    "close": "Close",
+    "language": "Language",
+    "arabic": "Arabic",
+    "english": "English"
+  },
+
+  "errors": {
+    "notFound": "Page not found",
+    "serverError": "An unexpected error occurred"
+  }
+}

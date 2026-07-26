@@ -1,0 +1,15 @@
+Lahazat Moments
+
+Professional Mental Health Platform
+
+Frontend:
+React
+Tailwind CSS
+
+Languages:
+Arabic
+English
+
+SEO Optimized
+
+Responsive Design

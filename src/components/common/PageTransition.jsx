@@ -1,0 +1,33 @@
+// src/components/common/PageTransition.jsx
+
+import PropTypes from 'prop-types'
+import {motion} from 'framer-motion'
+
+export default function PageTransition({children}) {
+  return (
+    <motion.div
+      initial={{
+        opacity: 0,
+        y: 15,
+      }}
+      animate={{
+        opacity: 1,
+        y: 0,
+      }}
+      exit={{
+        opacity: 0,
+        y: -15,
+      }}
+      transition={{
+        duration: 0.35,
+        ease: 'easeOut',
+      }}
+    >
+      {children}
+    </motion.div>
+  )
+}
+
+PageTransition.propTypes = {
+  children: PropTypes.node.isRequired,
+}

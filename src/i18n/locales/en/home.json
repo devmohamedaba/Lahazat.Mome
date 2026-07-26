@@ -1,0 +1,86 @@
+{
+  "hero": {
+    "title": "Lahazat Moments... Your Path to Better Mental Health",
+    "description": "A specialized platform connecting you with the best mental health specialists for professional, human-centered support."
+  },
+
+  "services": {
+    "title": "Our Psychological Services",
+    "subtitle": "Comprehensive support tailored to your life stage and mental health needs",
+    "items": {
+      "individual": {
+        "title": "Individual Counseling",
+        "description": "Private sessions that help you understand your emotions and personal challenges."
+      },
+      "family": {
+        "title": "Family Counseling",
+        "description": "Support that helps families improve communication and resolve conflicts."
+      },
+      "couples": {
+        "title": "Couples Therapy",
+        "description": "Professional support to improve relationships and enhance mutual understanding."
+      }
+    }
+  },
+
+  "why": {
+    "title": "Why Choose Lahazat",
+    "subtitle": "We're committed to a safe, trustworthy mental health support experience",
+    "items": {
+      "professional": "Licensed specialists with proven hands-on experience",
+      "privacy": "Complete privacy and confidentiality in every session",
+      "support": "Ongoing support throughout your therapeutic journey",
+      "flexibility": "Flexible scheduling with in-person or remote sessions"
+    }
+  },
+
+  "statistics": {
+    "title": "Trust Every Client Deserves",
+    "description": "Numbers that reflect our commitment to high-quality mental health care.",
+    "clients": "Clients Helped",
+    "specialists": "Licensed Specialists"
+  },
+
+  "specialists": {
+    "title": "Meet Our Team",
+    "subtitle": "A select group of experienced mental health professionals",
+    "items": {
+      "one": {
+        "name": "Dr. Tyseer Yossry",
+        "role": "Clinical Psychologist"
+      },
+      "two": {
+        "name": "Dr. Mohamed Hassan",
+        "role": "Psychotherapist"
+      },
+      "three": {
+        "name": "Dr. Nour Eldin",
+        "role": "Family Counselor"
+      }
+    }
+  },
+
+  "resources": {
+    "title": "Articles You Might Like",
+    "subtitle": "Trusted content to help you better understand yourself",
+    "items": {
+      "mental-health": {
+        "title": "Mental Health Basics",
+        "description": "Learn the core concepts of mental health and how to maintain it daily."
+      },
+      "stress-management": {
+        "title": "Managing Stress",
+        "description": "Practical ways to handle stress and daily pressure effectively."
+      },
+      "self-development": {
+        "title": "Self Development",
+        "description": "Steps to help you discover your potential and build self-confidence."
+      }
+    }
+  },
+
+  "cta": {
+    "title": "Start Your Journey to Better Mental Health",
+    "description": "Book your first session now and take the first step toward a more balanced life."
+  }
+}

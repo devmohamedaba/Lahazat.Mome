@@ -1,0 +1,75 @@
+{
+    "brand": {
+      "name": "لحظات نفسية",
+      "tagline": "رحلتك نحو صحة نفسية أفضل"
+    },
+  
+  
+    "navigation": {
+  
+      "Home": "الرئيسية",
+      "about": "من نحن",
+      "services": "الخدمات",
+      "specialists": "الأخصائيون",
+      "resources": "المقالات",
+      "faq": "الأسئلة الشائعة",
+      "contact": "تواصل معنا",
+      "booking": "احجز جلسة"
+  
+    },
+  
+  
+    "buttons": {
+  
+      "readMore": "اقرأ المزيد",
+      "learnMore": "اعرف المزيد",
+      "bookNow": "احجز الآن",
+      "submit": "إرسال",
+      "cancel": "إلغاء",
+      "back": "رجوع",
+      "viewAll": "عرض الكل",
+      "openMenu": "فتح القائمة",
+  "closeMenu": "إغلاق القائمة",
+  "services": "خدماتنا",
+  "viewSpecialists": "عرض جميع الأخصائيين"
+  
+    },
+  
+  
+    "footer": {
+      "description": "منصة متخصصة تقدم خدمات الدعم النفسي والاستشارات المتخصصة.",
+      "quickLinks": "روابط سريعة",
+      "servicesTitle": "الخدمات",
+      "contactUs": "تواصل معنا",
+      "followUs": "تابعنا",
+      "copyright": "جميع الحقوق محفوظة"
+    },
+    
+    "serviceItems": {
+      "individual": "جلسات فردية",
+      "family": "استشارات أسرية",
+      "couples": "استشارات للأزواج",
+      "children": "دعم نفسي للأطفال"
+    },
+  
+  
+    "common": {
+  
+      "loading": "جاري التحميل...",
+      "search": "بحث",
+      "close": "إغلاق",
+      "language": "اللغة",
+      "arabic": "العربية",
+      "english": "الإنجليزية"
+  
+    },
+  
+  
+    "errors": {
+  
+      "notFound": "الصفحة غير موجودة",
+      "serverError": "حدث خطأ غير متوقع"
+  
+    }
+  
+  }

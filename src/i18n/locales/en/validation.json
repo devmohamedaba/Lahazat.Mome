@@ -1,0 +1,19 @@
+{
+    "required": "This field is required",
+  
+    "email": "Please enter a valid email address",
+  
+    "phone": "Please enter a valid phone number",
+  
+    "minLength": "The number of characters is too short",
+  
+    "maxLength": "You have exceeded the allowed limit",
+  
+    "invalidDate": "Invalid date",
+  
+    "invalidTime": "Invalid time",
+  
+    "success": "Operation completed successfully",
+  
+    "error": "Something went wrong, please try again"
+  }

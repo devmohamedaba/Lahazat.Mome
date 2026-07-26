@@ -1,0 +1,95 @@
+{
+  "seo": {
+    "title": "Specialists | Lahazat Moments",
+    "description": "Meet our team of licensed mental health specialists and find the right fit for you."
+  },
+
+  "hero": {
+    "title": "Our Specialists",
+    "description": "A team of experienced mental health professionals ready to provide the right support for you."
+  },
+
+  "bookNow": "Book Now",
+
+  "items": {
+    "one": {
+      "name": "Dr. Tyseer Yossry",
+      "title": "Clinical Psychologist",
+      "experience": "8 years of experience",
+      "languages": "Arabic, English",
+      "qualification": "PhD in Clinical Psychology",
+      "bio": "Specialized in anxiety treatment, stress management, and individual counseling, with a calm approach focused on building trust in every session."
+    },
+    "two": {
+      "name": "Dr. Mohamed Hassan",
+      "title": "Psychotherapist",
+      "experience": "10 years of experience",
+      "languages": "Arabic, English",
+      "qualification": "MSc in Cognitive Behavioral Therapy",
+      "bio": "Specialized in cognitive behavioral therapy and emotional regulation, helping clients build practical tools for everyday challenges."
+    },
+    "three": {
+      "name": "Dr. Nour Eldin",
+      "title": "Family Counselor",
+      "experience": "12 years of experience",
+      "languages": "Arabic, French",
+      "qualification": "PhD in Marriage & Family Counseling",
+      "bio": "Specialized in improving family and relationship communication, focusing on effective dialogue and balanced conflict resolution."
+    }
+  },
+
+  "filters": {
+    "all": "All",
+    "psychologist": "Psychologist",
+    "psychiatrist": "Psychiatrist",
+    "family": "Family Counseling",
+    "child": "Children & Teens"
+  },
+
+  "profile": {
+    "experience": "Years of Experience",
+    "specialty": "Specialty",
+    "education": "Education",
+    "book": "Book Session",
+    "about": "About Specialist"
+  },
+
+  "whyTeam": {
+    "title": "Why Our Team Stands Out",
+    "subtitle": "We carefully select our specialists to guarantee the highest standard of care",
+    "items": {
+      "licensed": {
+        "title": "Licensed Specialists",
+        "description": "Every team member holds a certified license and verified qualifications."
+      },
+      "experience": {
+        "title": "Extensive Practical Experience",
+        "description": "Years of hands-on practice across a wide range of mental health cases."
+      },
+      "confidentiality": {
+        "title": "Committed to Confidentiality",
+        "description": "We protect every client's privacy at every stage of treatment."
+      },
+      "continuousLearning": {
+        "title": "Continuous Development",
+        "description": "Ongoing training to stay current with the latest therapeutic methods."
+      }
+    }
+  },
+
+  "statistics": {
+    "title": "Numbers That Speak For Us",
+    "subtitle": "Our clients' trust is the true measure of our success",
+    "specialists": "Specialists",
+    "sessions": "Sessions Completed",
+    "satisfaction": "Satisfaction Rate",
+    "support": "Ongoing Support"
+  },
+
+  "cta": {
+    "title": "Need Professional Support?",
+    "description": "Choose the right specialist and start your counseling journey.",
+    "bookButton": "Book Your Session",
+    "contactButton": "Contact Us"
+  }
+}

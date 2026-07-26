@@ -1,0 +1,116 @@
+{
+  "seo": {
+    "title": "Services | Lahazat Moments",
+    "description": "Explore our specialized mental health services for individuals, couples, families, and children."
+  },
+
+  "hero": {
+    "title": "Our Psychological Services",
+    "description": "A complete range of specialized mental health services designed to help you achieve balance and improve your quality of life."
+  },
+
+  "intro": {
+    "title": "Support Designed Around Your Needs",
+    "description": "We provide carefully designed counseling services for different ages and psychological challenges."
+  },
+
+  "items": {
+    "individual": {
+      "title": "Individual Counseling",
+      "description": "Private sessions that help you understand your emotions and deal with personal challenges in a healthy way."
+    },
+    "couples": {
+      "title": "Couples Therapy",
+      "description": "Professional support to improve relationships and enhance understanding between partners."
+    },
+    "family": {
+      "title": "Family Counseling",
+      "description": "Helping families improve communication, solve conflicts, and build stronger relationships."
+    },
+    "children": {
+      "title": "Child Therapy",
+      "description": "Specialized programs helping children deal with emotional and behavioral challenges."
+    },
+    "anxiety": {
+      "title": "Anxiety & Stress Management",
+      "description": "Learn effective techniques to handle stress, anxiety, and daily pressure."
+    },
+    "selfDevelopment": {
+      "title": "Self Development",
+      "description": "Programs that help you discover your potential, build confidence, and achieve your personal goals."
+    }
+  },
+
+  "approach": {
+    "title": "How We Work",
+    "subtitle": "A clear, structured journey from first contact to achieving your goals",
+    "steps": {
+      "one": {
+        "title": "Initial Assessment",
+        "description": "Understanding your needs and identifying the best support approach."
+      },
+      "two": {
+        "title": "Choose The Right Specialist",
+        "description": "Connecting you with the most suitable professional."
+      },
+      "three": {
+        "title": "Start Your Sessions",
+        "description": "A structured journey to achieve your personal goals."
+      }
+    }
+  },
+
+  "benefits": {
+    "title": "Why Our Services Stand Out",
+    "subtitle": "We're committed to a safe, trustworthy support experience for every client",
+    "items": {
+      "licensed": {
+        "title": "Licensed Specialists",
+        "description": "A team of licensed professionals with proven hands-on experience."
+      },
+      "confidential": {
+        "title": "Full Confidentiality",
+        "description": "Your privacy and data are fully protected in every session."
+      },
+      "personalized": {
+        "title": "Personalized Plans",
+        "description": "Every case gets a support plan tailored to their specific needs."
+      },
+      "flexible": {
+        "title": "Flexible Scheduling",
+        "description": "In-person and remote sessions that fit your daily schedule."
+      }
+    }
+  },
+
+  "statistics": {
+    "clients": "Clients Helped",
+    "specialists": "Specialists",
+    "satisfaction": "Satisfaction Rate",
+    "support": "Ongoing Support"
+  },
+
+  "process": {
+    "title": "How We Work?",
+    "steps": [
+      {
+        "title": "Initial Assessment",
+        "description": "Understanding your needs and identifying the best support approach."
+      },
+      {
+        "title": "Choose The Right Specialist",
+        "description": "Connecting you with the most suitable professional."
+      },
+      {
+        "title": "Start Your Sessions",
+        "description": "A structured journey to achieve your personal goals."
+      }
+    ]
+  },
+
+  "cta": {
+    "title": "Start Your Journey Today",
+    "description": "Book a session with one of our specialists and get the support you need.",
+    "button": "Book Your Session"
+  }
+}
