@@ -95,7 +95,7 @@ export default function Contact() {
                     <h3 className="font-semibold text-content">
                       {t('info.phone.title')}
                     </h3>
-                    <p className="text-content-muted">+20 100 000 0000</p>
+                    <p className="text-content-muted">+201040242725</p>
                   </div>
                 </div>
               </Card>
