@@ -3,9 +3,9 @@
 const contactInfo = {
   email: 'info@lahazatmoments.com',
 
-  phone: '+20 100 000 0000',
+  phone: '+201040242725',
 
-  whatsapp: '+201000000000',
+  whatsapp: '+201040242725',
 
   address: {
     city: 'Cairo',
