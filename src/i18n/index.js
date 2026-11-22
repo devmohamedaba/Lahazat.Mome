@@ -58,13 +58,7 @@ i18n
   .init({
     resources,
 
-    fallbackLng: 'ar',
-
-    detection: {
-      order: ['localStorage', 'navigator'],
-      caches: ['localStorage'],
-      lookupLocalStorage: 'i18nextLng',
-    },
+    fallbackLng: 'ar',supportedLngs: ['ar', 'en'],detection: { order: ['localStorage'], caches: ['localStorage'], lookupLocalStorage: 'i18nextLng' },
 
     interpolation: {
       escapeValue: false,
