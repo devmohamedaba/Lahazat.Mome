@@ -5,7 +5,7 @@ const siteConfig = {
     name: 'Lahazat Moments',
     shortName: 'Lahazat',
     version: '1.0.0',
-    defaultLanguage: 'en',
+    defaultLanguage: 'ar',
     supportedLanguages: ['en', 'ar'],
   },
 
