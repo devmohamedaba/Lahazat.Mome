@@ -11,21 +11,12 @@ import SectionTitle from '../components/ui/SectionTitle'
 import Card from '../components/ui/Card'
 import Button from '../components/ui/Button'
 
-import articlesRegistry from '../data/articlesRegistry'
+import useArticleCards from '../hooks/useArticleCards'
 
 export default function Resources() {
   const {t} = useTranslation('resources')
 
-  const articles = articlesRegistry.map(({slug, translationKey, image}) => ({
-    id: slug,
-    slug,
-    image,
-    title: t(`articles.${translationKey}.title`),
-    excerpt: t(`articles.${translationKey}.excerpt`),
-    author: t(`articles.${translationKey}.author`),
-    readTime: t(`articles.${translationKey}.readTime`),
-    category: t(`articles.${translationKey}.category`),
-  }))
+  const {cards: articles} = useArticleCards()
 
   return (
     <>
@@ -49,16 +40,18 @@ export default function Resources() {
           <div className="grid gap-8 lg:grid-cols-2 xl:grid-cols-3">
             {articles.map((article) => (
               <Card
-                key={article.id}
+                key={article.slug}
                 className="flex h-full flex-col overflow-hidden transition-all duration-300 hover:-translate-y-2"
               >
                 <div className="flex h-48 items-center justify-center bg-primary/5">
-                  <img
-                    src={article.image}
-                    alt={article.title}
-                    loading="lazy"
-                    className="h-full w-full object-cover"
-                  />
+                  {article.image && (
+                    <img
+                      src={article.image}
+                      alt={article.imageAlt}
+                      loading="lazy"
+                      className="h-full w-full object-cover"
+                    />
+                  )}
                 </div>
 
                 <div className="flex flex-1 flex-col p-6">

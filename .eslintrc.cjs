@@ -6,5 +6,6 @@ module.exports = {
   overrides: [
     {files: ['*.cjs', '*.js'], env: {node: true}},
     {files: ['*.js'], parserOptions: {sourceType: 'module'}},
+    {files: ['*.mjs'], env: {node: true}, parserOptions: {sourceType: 'module'}},
   ],
 }

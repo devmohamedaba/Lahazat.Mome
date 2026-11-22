@@ -8,11 +8,24 @@
     "lint:types": "tsc",
     "lint:quality": "eslint --ignore-path .gitignore .",
     "dev": "vite",
+    "prebuild": "node scripts/fetch-articles.mjs",
     "build": "tsc && vite build",
+    "postbuild": "node scripts/prerender-articles.mjs",
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tiptap/extension-image": "^2.27.3",
+    "@tiptap/extension-link": "^2.27.3",
+    "@tiptap/extension-placeholder": "^2.27.3",
+    "@tiptap/extension-table": "^2.27.3",
+    "@tiptap/extension-table-cell": "^2.27.3",
+    "@tiptap/extension-table-header": "^2.27.3",
+    "@tiptap/extension-table-row": "^2.27.3",
+    "@tiptap/pm": "^2.27.3",
+    "@tiptap/react": "^2.27.3",
+    "@tiptap/starter-kit": "^2.27.3",
     "axios": "^1.18.1",
+    "dompurify": "^3.5.0",
     "framer-motion": "^12.41.0",
     "i18next": "^26.3.2",
     "i18next-browser-languagedetector": "^8.2.1",
@@ -25,7 +38,8 @@
     "react-hot-toast": "^2.6.0",
     "react-i18next": "^17.0.8",
     "react-icons": "^5.6.0",
-    "react-router-dom": "^7.18.0"
+    "react-router-dom": "^7.18.0",
+    "sanitize-html": "^2.18.2"
   },
   "devDependencies": {
     "@cloudwalker/dom-utils": "^0.2.0",
