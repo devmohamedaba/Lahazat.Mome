@@ -1,0 +1,21 @@
+/* Typography for CMS article HTML (public page + admin editor). Uses the site's theme tokens. */
+.article-content { color: rgb(var(--color-text-secondary)); line-height: 2; font-size: 1.05rem; overflow-wrap: anywhere; }
+.article-content > * + * { margin-top: 1.1rem; }
+.article-content h2 { margin-top: 2rem; font-size: 1.6rem; font-weight: 700; line-height: 1.5; color: rgb(var(--color-text-primary)); }
+.article-content h3 { margin-top: 1.6rem; font-size: 1.3rem; font-weight: 700; line-height: 1.5; color: rgb(var(--color-text-primary)); }
+.article-content h4 { font-size: 1.1rem; font-weight: 700; color: rgb(var(--color-text-primary)); }
+.article-content strong { color: rgb(var(--color-text-primary)); font-weight: 700; }
+.article-content a { color: rgb(var(--color-primary-500)); text-decoration: underline; text-underline-offset: 3px; }
+.article-content ul { list-style: disc; padding-inline-start: 1.5rem; }
+.article-content ol { list-style: decimal; padding-inline-start: 1.5rem; }
+.article-content li + li { margin-top: 0.4rem; }
+.article-content li > p { margin: 0; }
+.article-content blockquote { border-inline-start: 4px solid rgb(var(--color-primary-500)); background: rgb(var(--color-surface-alt)); padding: 0.75rem 1.25rem; border-radius: 0.75rem; color: rgb(var(--color-text-primary)); }
+.article-content blockquote p { margin: 0; }
+.article-content img { max-width: 100%; height: auto; border-radius: 1rem; }
+.article-content hr { border: 0; border-top: 1px solid rgb(var(--color-border)); }
+.article-content code { background: rgb(var(--color-surface-alt)); padding: 0.1rem 0.4rem; border-radius: 0.4rem; font-size: 0.95em; }
+.article-content table { display: block; width: 100%; overflow-x: auto; border-collapse: collapse; }
+.article-content th, .article-content td { border: 1px solid rgb(var(--color-border)); padding: 0.6rem 0.8rem; text-align: start; vertical-align: top; }
+.article-content th { background: rgb(var(--color-surface-alt)); color: rgb(var(--color-text-primary)); font-weight: 700; }
+.article-content td > p, .article-content th > p { margin: 0; }

@@ -19,6 +19,12 @@ const Contact = lazy(() => import('../pages/Contact'))
 const BookConsultation = lazy(() => import('../pages/BookConsultation'))
 const NotFound = lazy(() => import('../pages/NotFound'))
 
+// Admin area (code-split so the editor is never downloaded by normal visitors)
+const AdminLogin = lazy(() => import('../pages/admin/AdminLogin'))
+const AdminGuard = lazy(() => import('../pages/admin/AdminGuard'))
+const ArticlesManager = lazy(() => import('../pages/admin/ArticlesManager'))
+const ArticleEditor = lazy(() => import('../pages/admin/ArticleEditor'))
+
 const page = (Component) => (
   <PageTransition>
     <Component />
@@ -28,6 +34,14 @@ const page = (Component) => (
 export default function AppRoutes() {
   return (
     <Routes>
+      {/* Admin (no public navbar/footer, not linked anywhere, noindex) */}
+      <Route path="/admin" element={<AdminLogin />} />
+      <Route element={<AdminGuard />}>
+        <Route path="/admin/articles" element={<ArticlesManager />} />
+        <Route path="/admin/articles/new" element={<ArticleEditor />} />
+        <Route path="/admin/articles/edit/:id" element={<ArticleEditor />} />
+      </Route>
+
       <Route element={<MainLayout />}>
         <Route path={ROUTES.HOME} element={page(Home)} />
         <Route path={ROUTES.ABOUT} element={page(About)} />
