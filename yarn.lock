@@ -366,7 +366,7 @@
   resolved "https://registry.npmjs.org/@remirror/core-constants/-/core-constants-3.0.0.tgz"
   integrity sha512-42aWfPrimMfDKDi4YegyS7x+/0tlzaqwPQCULLanv3DMIlu96KTJR0fM5isWX2UViOqlGnX6YFgqWepcX+XMNg==
 
-"@tiptap/core@^2.27.3", "@tiptap/core@^2.7.0":
+"@tiptap/core@^2", "@tiptap/core@^2.27.3", "@tiptap/core@^2.7.0":
   version "2.27.3"
   resolved "https://registry.npmjs.org/@tiptap/core/-/core-2.27.3.tgz"
   integrity sha512-a5LfRbLpfaGI3hbL/LPHUYHI0I+FQHdSHsy8L4YnVIuu3hXcm3QZgkWbpEGf8hCz8krk6zEiu0+iFOjTySU2FA==
