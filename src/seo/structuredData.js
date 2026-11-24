@@ -5,11 +5,11 @@ const structuredData = {
 
   name: 'Lahazat Moments',
 
-  url: 'https://lahazatmoments.com',
+  url: 'https://lahazatmoments.vercel.app',
 
-  logo: 'https://lahazatmoments.com/logo.png',
+  logo: 'https://lahazatmoments.vercel.app/logo.png',
 
-  image: 'https://lahazatmoments.com/logo.png',
+  image: 'https://lahazatmoments.vercel.app/logo.png',
 
   telephone: '+20xxxxxxxxxx',
 
