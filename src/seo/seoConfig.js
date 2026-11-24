@@ -3,7 +3,7 @@
 const seoConfig = {
   siteName: 'Lahazat Moments',
 
-  siteUrl: 'https://lahazatmoments.com',
+  siteUrl: 'https://lahazatmoments.vercel.app',
 
   defaultTitle: 'Lahazat Moments | Professional Mental Health Services',
 

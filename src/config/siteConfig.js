@@ -38,7 +38,7 @@ const siteConfig = {
     titleTemplate: '%s | Lahazat Moments',
     description:
       'Professional psychological counseling, therapy sessions, mental health resources, and emotional well-being support.',
-    image: '/images/seo/cover.jpg',
+    image: '/images/seo-cover.jpg',
     keywords: [
       'Mental Health',
       'Psychological Counseling',
